@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishav-079
+- 👋 Hi, I’m rishav
 - 👀 I’m interested in gaming designing 
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on game development 
